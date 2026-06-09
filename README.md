@@ -55,8 +55,8 @@ Generated Answer
 ## 1. Clone Repository
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
-cd offline-rag-chatbot
+git clone https://github.com/RmahanDev/RAG-chat-bot-based-on-Ollama/
+cd RAG-chat-bot-based-on-Ollama
 ```
 
 ## 2. Create Virtual Environment
